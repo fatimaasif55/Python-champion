@@ -1,0 +1,8 @@
+print("i wake up at 6 AM in the morning")
+print("i eat breakfast and get ready for school")
+print("i go to school at 7 am and come back at 2 PM")
+print("then i eat lunch and get ready for academy")
+print("i go to academy at 3 PM and come back at 8 pm")
+print("i have dinner ")
+print("then i study from 9 PM till 1 AM")
+print("then i sleep at 1 AM")
