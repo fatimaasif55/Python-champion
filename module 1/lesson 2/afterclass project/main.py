@@ -1,0 +1,10 @@
+fatima="2010 4th march"
+sara="2006 1st january"
+rijja="2000 2 may"
+ali="1990 5th june"
+jhon="2024 7th december"
+print("birthday of fatima",fatima)
+print("birthday of sara",sara)
+print("birthday of rijja",rijja)
+print("birthday of ali",ali)
+print("birthday of jhon",jhon)
